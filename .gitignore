@@ -1,0 +1,17 @@
+_build/
+.eunit
+.DS_Store
+log/
+doc/
+logs/
+out/
+ebin/
+.idea
+test/*.beam
+*.iml
+*.dump
+.rebar/
+*.plt
+rebar.lock
+rebar3
+*.xml
