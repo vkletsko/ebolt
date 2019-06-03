@@ -6,7 +6,7 @@ doc/
 logs/
 out/
 ebin/
-.idea
+.idea/
 test/*.beam
 *.iml
 *.dump
